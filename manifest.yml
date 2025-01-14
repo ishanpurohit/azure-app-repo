@@ -1,5 +1,5 @@
 ---
-prd:
+prd: #Github Branch name (app env name)
   account:
-    name: dev-account
-    account_id: '1234567897'
+    name: <Name of Account Repo AWS>
+    account_id: <Account ID AWS >
